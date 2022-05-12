@@ -6,8 +6,8 @@ Game: Chicken Invaders
 
 Giới thiệu:
   - Bắn Gà kể về binh đoàn gà xâm lược đã tấn công và tiêu diệt toàn bộ các hành tinh trong vũ trụ. 
-  - Bọn chúng đang tiến về trái đất, tấn công trái đất của chúng ta. 
-  - Nhiệm vụ của người chơi là điều khiển tàu chiến chống lại bọn gà tàn ác này.
+  - Bọn chúng đang tiến về trái đất, tấn công trái đất. 
+  - Nhiệm vụ của người chơi là điều khiển tàu chiến chống lại bọn gà này.
 
 Gameplay:
   - Sử dụng các nút A(sang trái), B(sang phải), W(đi lên), S(đi xuống) để di chuyển nhân vật
