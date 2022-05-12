@@ -1,0 +1,8 @@
+﻿  Boss.cpp
+  game.cpp
+C:\Users\thanh\Desktop\My game\Demo\Demo\game.cpp(266,34): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\thanh\Desktop\My game\Demo\Demo\game.cpp(265,87): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\thanh\Desktop\My game\Demo\Demo\game.cpp(350,105): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  main.cpp
+  Generating Code...
+  Demo.vcxproj -> C:\Users\thanh\Desktop\My game\Demo\x64\Debug\Demo.exe
