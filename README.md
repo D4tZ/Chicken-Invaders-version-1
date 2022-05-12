@@ -9,7 +9,7 @@ Giới thiệu:
   - Bọn chúng đang tiến về trái đất, tấn công trái đất. 
   - Nhiệm vụ của người chơi là điều khiển tàu chiến chống lại bọn gà này.
 
-Gameplay:
+Cách chơi:
   - Sử dụng các nút A(sang trái), B(sang phải), W(đi lên), S(đi xuống) để di chuyển nhân vật
   - Sử dụng chuột trái để có thể bắn đạn
   - Người chơi khởi đầu với 3 mạng
