@@ -30,4 +30,5 @@ Quá trình làm game:
   - Ảnh, âm thanh trong game lấy trên mạng và được hỗ trợ từ các anh chị khóa trước.
 
 Video demo: https://www.youtube.com/watch?v=fCGqEPtW4Ac
+
 Link file exe: https://drive.google.com/drive/folders/1eYX5fci1ZAkWnxtG3sZmQheUxiFetSuT?usp=sharing (chỉ cần tải về rồi mở file exe là chơi được)
